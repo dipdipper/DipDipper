@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DipDipper
+- 👀 I’m interested in JavaScript and lua.
+- 🌱 I’m currently learning phyton.
+- 📫 Send me mail for questions, my mail is; cakirsukru723@gmail.com
